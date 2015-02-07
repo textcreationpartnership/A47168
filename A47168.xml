@@ -116,7 +116,10 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <figure/>
+            <p>
+               <pb facs="tcp:60074:1"/>
+               <figure/>
+            </p>
             <p>
                <pb facs="tcp:60074:1" rendition="simple:additions"/>
                <hi>Art's Maſter-piece.</hi> OR, A Companion for the Ingenious of either Sex. CONTAINING,
